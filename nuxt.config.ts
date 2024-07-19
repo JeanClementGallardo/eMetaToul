@@ -21,14 +21,13 @@ export default defineNuxtConfig({
 
   generate: {
     routes: [
-      "./",
-      "./catalogue",
-      "./equipe",
-      "./formations",
-      "./ressources/fiche",
-      "./ressources/tips",
-      "./ressources/template",
-      "./ressources/presentation"
+      "/catalogue",
+      "/equipe",
+      "/formations",
+      "/ressources/fiche",
+      "/ressources/tips",
+      "/ressources/template",
+      "/ressources/presentation"
     ]
   },
 
