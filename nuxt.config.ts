@@ -19,14 +19,14 @@ export default defineNuxtConfig({
 
   generate: {
     routes: [
-      "/eMetaToul",
-      "/eMetaToul/catalogue",
-      "/eMetaToul/equipe",
-      "/eMetaToul/formations",
-      "/eMetaToul/ressources/fiche",
-      "/eMetaToul/ressources/tips",
-      "/eMetaToul/ressources/template",
-      "/eMetaToul/ressources/presentation"
+      "/",
+      "/catalogue",
+      "/equipe",
+      "/formations",
+      "/ressources/fiche",
+      "/ressources/tips",
+      "/ressources/template",
+      "/ressources/presentation"
     ]
   },
 
