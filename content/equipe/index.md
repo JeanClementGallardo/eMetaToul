@@ -13,3 +13,4 @@
 | Prénoms | Noms | Plateforme | Mail | Compétences | Fin du contrat |
 | ------- | ---- | ---------- | ---- | ----------- | -------------- |
 | Jean-Clément | Gallardo | MetExplore | jean-clement.gallardo@inrae.fr | FullStacks, D3.js, visualisation, ... | 01 - 04 - 2026 |
+| Marion | Liotier | MetExplore | marion.liotier@inrae.fr | Fullstacks | ??? |
