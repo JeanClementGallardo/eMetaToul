@@ -1,10 +1,4 @@
----
-title: Catalogue
----
-
 # Catalogue
-
-Liste des différents développements réalisés au sein de MetaToul
 
 ## Web components
 
@@ -15,7 +9,7 @@ Liste des différents développements réalisés au sein de MetaToul
 title: VizCore
 category: Visualisation
 description: A web component dedicated to visualisation of graph.
-link: https://forgemia.inra.fr/metabohub/web-components/viz-core
+link: https://forge.inrae.fr/metabohub/web-components/viz-core
 author: Jean-Clément Gallardo
 role: FullStack developer
 date: 04 - 07 - 2024
@@ -28,7 +22,7 @@ date: 04 - 07 - 2024
 title: VizMapping
 category: Mapping
 description: A web component dedicated to map data over network.
-link: https://forgemia.inra.fr/metabohub/web-components/viz-mapping
+link: https://forge.inrae.fr/metabohub/web-components/viz-mapping
 author: Jean-Clément Gallardo
 role: FullStack developer
 date: 04 - 07 - 2024
@@ -41,7 +35,7 @@ date: 04 - 07 - 2024
 title: VizStyleManager
 category: Visualisation
 description: A web component dedicated to manage graph style.
-link: https://forgemia.inra.fr/metabohub/web-components/viz-style-manager
+link: https://forge.inrae.fr/metabohub/web-components/viz-style-manager
 author: Jean-Clément Gallardo
 role: FullStack developer
 date: 04 - 07 - 2024
@@ -56,7 +50,7 @@ date: 04 - 07 - 2024
 title: DropDownMenu
 category: Interface
 description: A web component to create a drop down menu.
-link: https://forgemia.inra.fr/metabohub/web-components/drop-down-menu
+link: https://forge.inrae.fr/metabohub/web-components/drop-down-menu
 author: Jean-Clément Gallardo
 role: FullStack developer
 date: 04 - 07 - 2024
@@ -73,7 +67,7 @@ date: 04 - 07 - 2024
 title: VizCore
 category: Visualisation
 description: A web component dedicated to visualisation of graph.
-link: https://forgemia.inra.fr/metabohub/web-components/viz-core
+link: https://forge.inrae.fr/metabohub/web-components/viz-core
 author: Jean-Clément Gallardo
 role: FullStack developer
 date: 04 - 07 - 2024
@@ -86,7 +80,7 @@ date: 04 - 07 - 2024
 title: VizMapping
 category: Mapping
 description: A web component dedicated to map data over network.
-link: https://forgemia.inra.fr/metabohub/web-components/viz-mapping
+link: https://forge.inrae.fr/metabohub/web-components/viz-mapping
 author: Jean-Clément Gallardo
 role: FullStack developer
 date: 04 - 07 - 2024
@@ -99,7 +93,7 @@ date: 04 - 07 - 2024
 title: VizStyleManager
 category: Visualisation
 description: A web component dedicated to manage graph style.
-link: https://forgemia.inra.fr/metabohub/web-components/viz-style-manager
+link: https://forge.inrae.fr/metabohub/web-components/viz-style-manager
 author: Jean-Clément Gallardo
 role: FullStack developer
 date: 04 - 07 - 2024
@@ -114,7 +108,7 @@ date: 04 - 07 - 2024
 title: DropDownMenu
 category: Interface
 description: A web component to create a drop down menu.
-link: https://forgemia.inra.fr/metabohub/web-components/drop-down-menu
+link: https://forge.inrae.fr/metabohub/web-components/drop-down-menu
 author: Jean-Clément Gallardo
 role: FullStack developer
 date: 04 - 07 - 2024
@@ -131,7 +125,7 @@ date: 04 - 07 - 2024
 title: VizCore
 category: Visualisation
 description: A web component dedicated to visualisation of graph.
-link: https://forgemia.inra.fr/metabohub/web-components/viz-core
+link: https://forge.inrae.fr/metabohub/web-components/viz-core
 author: Jean-Clément Gallardo
 role: FullStack developer
 date: 04 - 07 - 2024
@@ -144,7 +138,7 @@ date: 04 - 07 - 2024
 title: VizMapping
 category: Mapping
 description: A web component dedicated to map data over network. 
-link: https://forgemia.inra.fr/metabohub/web-components/viz-mapping
+link: https://forge.inrae.fr/metabohub/web-components/viz-mapping
 author: Jean-Clément Gallardo
 role: FullStack developer
 date: 04 - 07 - 2024
@@ -157,7 +151,7 @@ date: 04 - 07 - 2024
 title: VizStyleManager
 category: Visualisation
 description: A web component dedicated to manage graph style.
-link: https://forgemia.inra.fr/metabohub/web-components/viz-style-manager
+link: https://forge.inrae.fr/metabohub/web-components/viz-style-manager
 author: Jean-Clément Gallardo
 role: FullStack developer
 date: 04 - 07 - 2024
@@ -172,7 +166,7 @@ date: 04 - 07 - 2024
 title: DropDownMenu
 category: Interface
 description: A web component to create a drop down menu.
-link: https://forgemia.inra.fr/metabohub/web-components/drop-down-menu
+link: https://forge.inrae.fr/metabohub/web-components/drop-down-menu
 author: Jean-Clément Gallardo
 role: FullStack developer
 date: 04 - 07 - 2024
