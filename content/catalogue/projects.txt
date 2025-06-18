@@ -1,0 +1,7 @@
+link: https://forge.inrae.fr/metabohub/web-components/viz-core
+author: Jean-Clément Gallardo
+link: https://github.com/planetscale/schemadiff
+author: auteur
+link: https://forge.inrae.fr/metabohub/web-components/viz-style-manager
+link: https://forge.inrae.fr/metabohub/web-components/drop-down-menu
+author: Jean-Clément Gallardo
