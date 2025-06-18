@@ -1,6 +1,11 @@
 # Formations
 
-Liste des formations en interne et externe dans le domaine de l'informatique, la bio-informatique, statistiques, etc.
+## Plateforme
+
+| Plateforme | Lien |
+| ---------- | ---- |
+| GenoToul BioInfo | https://bioinfo.genotoul.fr/index.php/training-2/training/ |
+| IFB | https://www.france-bioinformatique.fr/formations/ |
 
 ## Interne
 
@@ -14,3 +19,9 @@ Liste des formations en interne et externe dans le domaine de l'informatique, la
 | Titre | Description | Date | Lieu | Pré-requis | Lien |
 | ----- | ----------- | ---- | ---- | ---------- | ---- |
 | Python initiation | Découverte du langage de programmation python | 02 - 10 - 2024 au 04 - 10 - 2024 | Salle informatique INRAE Auzeville | Connaissances de base en programmation | Inscription : https://sondages.inrae.fr/index.php/852919?lang=fr <br> Descriptif : https://toulouse.intranet.inrae.fr/media/fichier-formation/annonce-python1 |
+
+## Récurrente 
+
+| Titre | Description | Pré-requis | Contact |
+| ----- | ----------- | ---------- | ------- |
+| Initiation GitLab | Découverte de GitLab | Aucun | ? |

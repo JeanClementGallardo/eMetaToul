@@ -19,6 +19,7 @@
           </li>
           <li><button @click="goTo('/formations')" class="hover:text-gray-300 ml-6">Formations</button></li>
           <li><button @click="mailTo" class="hover:text-gray-300 ml-6">Contact</button></li>
+          <li><button @click="goTo('/guide')" class="hover:text-gray-300 ml-6">Guide</button></li>
         </ul>
       </nav>
     </div>

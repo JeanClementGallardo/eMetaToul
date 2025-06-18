@@ -1,7 +1,5 @@
 # Équipe
 
-Page des équipes / personnels
-
 ## Permanents
 
 | Prénoms | Noms | Plateforme | Mail | Compétences |

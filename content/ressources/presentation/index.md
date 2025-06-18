@@ -2,9 +2,7 @@
 title: Ressources
 ---
 
-# Présentations
-
-Liste des différentes présentations / posters faits lors des animations ou autres congrès pouvant intéresser notre communeauté de bio-info.
+# Communications
 
 ## Présentations
 
