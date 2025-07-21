@@ -9,8 +9,9 @@
   },
   "dependencies": {
     "@heroicons/vue": "^2.1.4",
-    "@nuxt/content": "^2.13.0",
+    "@nuxt/content": "^2.13.4",
     "@nuxt/image": "^1.7.0",
+    "@nuxtjs/mdc": "^0.17.2",
     "buffer": "^6.0.3",
     "fs": "^0.0.1-security",
     "nuxt": "^3.12.3",
